@@ -1,0 +1,1 @@
+这是个txt文件，里面的文字是从python program传入的！
