@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcf4bda6-12ab-492a-8c7d-4ec102d7f4aa" name="Default Changelist" comment="" />
+    <list default="true" id="fcf4bda6-12ab-492a-8c7d-4ec102d7f4aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash_course_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/成绩统计.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2tGrrSobWZqe3ElvjU1ELRhQkIE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -31,28 +41,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.name_search">
-    <configuration name="cards2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="循环" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cards2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.crash_course_practice">
     <configuration name="censor_words" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="循环" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,6 +55,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/censor_words.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="crash_course_practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="循环" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crash_course_practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.crash_course_practice" />
         <item itemvalue="Python.name_search" />
         <item itemvalue="Python.censor_words" />
         <item itemvalue="Python.files" />
         <item itemvalue="Python.newtest" />
-        <item itemvalue="Python.cards2" />
       </list>
     </recent_temporary>
   </component>
@@ -173,8 +183,8 @@
       <screen x="45" y="25" width="1395" height="875" />
     </state>
     <state x="355" y="401" key="FileChooserDialogImpl/45.25.1395.875@45.25.1395.875" timestamp="1740017013244" />
-    <state width="1219" height="273" key="GridCell.Tab.0.bottom" timestamp="1742089674544">
-      <screen x="40" y="25" width="1400" height="875" />
+    <state width="1219" height="273" key="GridCell.Tab.0.bottom" timestamp="1742488043148">
+      <screen x="45" y="25" width="1395" height="875" />
     </state>
     <state width="1219" height="220" key="GridCell.Tab.0.bottom/39.25.1401.875@39.25.1401.875" timestamp="1741910883758" />
     <state width="1219" height="273" key="GridCell.Tab.0.bottom/40.25.1400.875@40.25.1400.875" timestamp="1742089674544" />
@@ -182,9 +192,9 @@
     <state width="1219" height="220" key="GridCell.Tab.0.bottom/42.25.1398.875@42.25.1398.875" timestamp="1740786530605" />
     <state width="1219" height="220" key="GridCell.Tab.0.bottom/43.25.1397.875@43.25.1397.875" timestamp="1741373330480" />
     <state width="1219" height="220" key="GridCell.Tab.0.bottom/44.25.1396.875@44.25.1396.875" timestamp="1740438364685" />
-    <state width="1219" height="220" key="GridCell.Tab.0.bottom/45.25.1395.875@45.25.1395.875" timestamp="1740716454797" />
-    <state width="1219" height="273" key="GridCell.Tab.0.center" timestamp="1742089674543">
-      <screen x="40" y="25" width="1400" height="875" />
+    <state width="1219" height="273" key="GridCell.Tab.0.bottom/45.25.1395.875@45.25.1395.875" timestamp="1742488043148" />
+    <state width="1219" height="273" key="GridCell.Tab.0.center" timestamp="1742488043147">
+      <screen x="45" y="25" width="1395" height="875" />
     </state>
     <state width="1219" height="220" key="GridCell.Tab.0.center/39.25.1401.875@39.25.1401.875" timestamp="1741910883757" />
     <state width="1219" height="273" key="GridCell.Tab.0.center/40.25.1400.875@40.25.1400.875" timestamp="1742089674543" />
@@ -192,9 +202,9 @@
     <state width="1219" height="220" key="GridCell.Tab.0.center/42.25.1398.875@42.25.1398.875" timestamp="1740786530604" />
     <state width="1219" height="220" key="GridCell.Tab.0.center/43.25.1397.875@43.25.1397.875" timestamp="1741373330479" />
     <state width="1219" height="220" key="GridCell.Tab.0.center/44.25.1396.875@44.25.1396.875" timestamp="1740438364684" />
-    <state width="1219" height="220" key="GridCell.Tab.0.center/45.25.1395.875@45.25.1395.875" timestamp="1740716454796" />
-    <state width="1219" height="273" key="GridCell.Tab.0.left" timestamp="1742089674542">
-      <screen x="40" y="25" width="1400" height="875" />
+    <state width="1219" height="273" key="GridCell.Tab.0.center/45.25.1395.875@45.25.1395.875" timestamp="1742488043147" />
+    <state width="1219" height="273" key="GridCell.Tab.0.left" timestamp="1742488043147">
+      <screen x="45" y="25" width="1395" height="875" />
     </state>
     <state width="1219" height="220" key="GridCell.Tab.0.left/39.25.1401.875@39.25.1401.875" timestamp="1741910883757" />
     <state width="1219" height="273" key="GridCell.Tab.0.left/40.25.1400.875@40.25.1400.875" timestamp="1742089674542" />
@@ -202,9 +212,9 @@
     <state width="1219" height="220" key="GridCell.Tab.0.left/42.25.1398.875@42.25.1398.875" timestamp="1740786530604" />
     <state width="1219" height="220" key="GridCell.Tab.0.left/43.25.1397.875@43.25.1397.875" timestamp="1741373330479" />
     <state width="1219" height="220" key="GridCell.Tab.0.left/44.25.1396.875@44.25.1396.875" timestamp="1740438364684" />
-    <state width="1219" height="220" key="GridCell.Tab.0.left/45.25.1395.875@45.25.1395.875" timestamp="1740716454796" />
-    <state width="1219" height="273" key="GridCell.Tab.0.right" timestamp="1742089674543">
-      <screen x="40" y="25" width="1400" height="875" />
+    <state width="1219" height="273" key="GridCell.Tab.0.left/45.25.1395.875@45.25.1395.875" timestamp="1742488043147" />
+    <state width="1219" height="273" key="GridCell.Tab.0.right" timestamp="1742488043148">
+      <screen x="45" y="25" width="1395" height="875" />
     </state>
     <state width="1219" height="220" key="GridCell.Tab.0.right/39.25.1401.875@39.25.1401.875" timestamp="1741910883758" />
     <state width="1219" height="273" key="GridCell.Tab.0.right/40.25.1400.875@40.25.1400.875" timestamp="1742089674543" />
@@ -212,42 +222,43 @@
     <state width="1219" height="220" key="GridCell.Tab.0.right/42.25.1398.875@42.25.1398.875" timestamp="1740786530605" />
     <state width="1219" height="220" key="GridCell.Tab.0.right/43.25.1397.875@43.25.1397.875" timestamp="1741373330480" />
     <state width="1219" height="220" key="GridCell.Tab.0.right/44.25.1396.875@44.25.1396.875" timestamp="1740438364685" />
-    <state width="1219" height="220" key="GridCell.Tab.0.right/45.25.1395.875@45.25.1395.875" timestamp="1740716454797" />
-    <state width="1219" height="273" key="GridCell.Tab.1.bottom" timestamp="1742089680659">
-      <screen x="40" y="25" width="1400" height="875" />
+    <state width="1219" height="273" key="GridCell.Tab.0.right/45.25.1395.875@45.25.1395.875" timestamp="1742488043148" />
+    <state width="1219" height="273" key="GridCell.Tab.1.bottom" timestamp="1742488043149">
+      <screen x="45" y="25" width="1395" height="875" />
     </state>
     <state width="1219" height="273" key="GridCell.Tab.1.bottom/40.25.1400.875@40.25.1400.875" timestamp="1742089680659" />
     <state width="1219" height="273" key="GridCell.Tab.1.bottom/41.25.1399.875@41.25.1399.875" timestamp="1741993740144" />
     <state width="1219" height="273" key="GridCell.Tab.1.bottom/43.25.1397.875@43.25.1397.875" timestamp="1741370606959" />
-    <state width="1219" height="273" key="GridCell.Tab.1.bottom/45.25.1395.875@45.25.1395.875" timestamp="1740595228646" />
-    <state width="1219" height="273" key="GridCell.Tab.1.center" timestamp="1742089680659">
-      <screen x="40" y="25" width="1400" height="875" />
+    <state width="1219" height="273" key="GridCell.Tab.1.bottom/45.25.1395.875@45.25.1395.875" timestamp="1742488043149" />
+    <state width="1219" height="273" key="GridCell.Tab.1.center" timestamp="1742488043148">
+      <screen x="45" y="25" width="1395" height="875" />
     </state>
     <state width="1219" height="273" key="GridCell.Tab.1.center/40.25.1400.875@40.25.1400.875" timestamp="1742089680659" />
     <state width="1219" height="273" key="GridCell.Tab.1.center/41.25.1399.875@41.25.1399.875" timestamp="1741993740143" />
     <state width="1219" height="273" key="GridCell.Tab.1.center/43.25.1397.875@43.25.1397.875" timestamp="1741370606958" />
-    <state width="1219" height="273" key="GridCell.Tab.1.center/45.25.1395.875@45.25.1395.875" timestamp="1740595228645" />
-    <state width="1219" height="273" key="GridCell.Tab.1.left" timestamp="1742089680658">
-      <screen x="40" y="25" width="1400" height="875" />
+    <state width="1219" height="273" key="GridCell.Tab.1.center/45.25.1395.875@45.25.1395.875" timestamp="1742488043148" />
+    <state width="1219" height="273" key="GridCell.Tab.1.left" timestamp="1742488043148">
+      <screen x="45" y="25" width="1395" height="875" />
     </state>
     <state width="1219" height="273" key="GridCell.Tab.1.left/40.25.1400.875@40.25.1400.875" timestamp="1742089680658" />
     <state width="1219" height="273" key="GridCell.Tab.1.left/41.25.1399.875@41.25.1399.875" timestamp="1741993740143" />
     <state width="1219" height="273" key="GridCell.Tab.1.left/43.25.1397.875@43.25.1397.875" timestamp="1741370606958" />
-    <state width="1219" height="273" key="GridCell.Tab.1.left/45.25.1395.875@45.25.1395.875" timestamp="1740595228644" />
-    <state width="1219" height="273" key="GridCell.Tab.1.right" timestamp="1742089680659">
-      <screen x="40" y="25" width="1400" height="875" />
+    <state width="1219" height="273" key="GridCell.Tab.1.left/45.25.1395.875@45.25.1395.875" timestamp="1742488043148" />
+    <state width="1219" height="273" key="GridCell.Tab.1.right" timestamp="1742488043148">
+      <screen x="45" y="25" width="1395" height="875" />
     </state>
     <state width="1219" height="273" key="GridCell.Tab.1.right/40.25.1400.875@40.25.1400.875" timestamp="1742089680659" />
     <state width="1219" height="273" key="GridCell.Tab.1.right/41.25.1399.875@41.25.1399.875" timestamp="1741993740143" />
     <state width="1219" height="273" key="GridCell.Tab.1.right/43.25.1397.875@43.25.1397.875" timestamp="1741370606959" />
-    <state width="1219" height="273" key="GridCell.Tab.1.right/45.25.1395.875@45.25.1395.875" timestamp="1740595228645" />
+    <state width="1219" height="273" key="GridCell.Tab.1.right/45.25.1395.875@45.25.1395.875" timestamp="1742488043148" />
     <state x="201" y="98" key="SettingsEditor" timestamp="1740016800246">
       <screen x="45" y="25" width="1395" height="875" />
     </state>
     <state x="201" y="98" key="SettingsEditor/45.25.1395.875@45.25.1395.875" timestamp="1740016800246" />
-    <state x="390" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1739989462797">
-      <screen x="45" y="25" width="1395" height="875" />
+    <state x="388" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1742771835653">
+      <screen x="43" y="25" width="1397" height="875" />
     </state>
+    <state x="388" y="291" key="com.intellij.ide.util.TipDialog/43.25.1397.875@43.25.1397.875" timestamp="1742771835653" />
     <state x="390" y="291" key="com.intellij.ide.util.TipDialog/45.25.1395.875@45.25.1395.875" timestamp="1739989462797" />
     <state x="364" y="202" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1742088172557">
       <screen x="40" y="25" width="1400" height="875" />
